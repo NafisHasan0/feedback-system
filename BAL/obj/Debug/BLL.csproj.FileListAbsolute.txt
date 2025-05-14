@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\BAL.dll
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\BAL.pdb
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\feedback\BAL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\feedback\BAL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\feedback\BAL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\user\Desktop\feedback\BAL\obj\Debug\BAL.dll
+C:\Users\user\Desktop\feedback\BAL\obj\Debug\BAL.pdb
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\feedback\BAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\BAL.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\BAL.pdb
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\feedback - Copy\BAL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\feedback - Copy\BAL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\feedback - Copy\BAL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\user\Desktop\feedback - Copy\BAL\obj\Debug\BAL.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\obj\Debug\BAL.pdb
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\feedback - Copy\BAL\bin\Debug\itextsharp.xml

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\feedback - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CCB4B2-A162-4A36-B7F1-44F44FDB4452}|BAL\\BLL.csproj|c:\\users\\user\\desktop\\feedback - copy\\bal\\services\\feedbacksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CCB4B2-A162-4A36-B7F1-44F44FDB4452}|BAL\\BLL.csproj|solutionrelative:bal\\services\\feedbacksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CCB4B2-A162-4A36-B7F1-44F44FDB4452}|BAL\\BLL.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\bal\\services\\feedbackresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CCB4B2-A162-4A36-B7F1-44F44FDB4452}|BAL\\BLL.csproj|solutionrelative:bal\\services\\feedbackresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203FE47D-1857-4862-8B6E-FBA5D55AA49A}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\dal\\repo\\feedbacksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203FE47D-1857-4862-8B6E-FBA5D55AA49A}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\feedbacksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203FE47D-1857-4862-8B6E-FBA5D55AA49A}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\dal\\repo\\feedbacksresponsesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203FE47D-1857-4862-8B6E-FBA5D55AA49A}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\feedbacksresponsesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203FE47D-1857-4862-8B6E-FBA5D55AA49A}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\dal\\repo\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203FE47D-1857-4862-8B6E-FBA5D55AA49A}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66314D4F-A5C8-444A-9C2C-D506D4AD5F67}|feedback\\feedback.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66314D4F-A5C8-444A-9C2C-D506D4AD5F67}|feedback\\feedback.csproj|solutionrelative:feedback\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66314D4F-A5C8-444A-9C2C-D506D4AD5F67}|feedback\\feedback.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\controllers\\feedbackresponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66314D4F-A5C8-444A-9C2C-D506D4AD5F67}|feedback\\feedback.csproj|solutionrelative:feedback\\controllers\\feedbackresponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66314D4F-A5C8-444A-9C2C-D506D4AD5F67}|feedback\\feedback.csproj|C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66314D4F-A5C8-444A-9C2C-D506D4AD5F67}|feedback\\feedback.csproj|solutionrelative:feedback\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "feedbacksService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\BAL\\Services\\feedbacksService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\feedbacksService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\BAL\\Services\\feedbacksService.cs",
+              "RelativeToolTip": "BAL\\Services\\feedbacksService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:25:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "feedbackResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\BAL\\Services\\feedbackResponseService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\feedbackResponseService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\BAL\\Services\\feedbackResponseService.cs",
+              "RelativeToolTip": "BAL\\Services\\feedbackResponseService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:25:27.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "feedback\\Controllers\\usersController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\Controllers\\usersController.cs",
+              "RelativeToolTip": "feedback\\Controllers\\usersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:57:16.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "feedbackResponseController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\Controllers\\feedbackResponseController.cs",
+              "RelativeDocumentMoniker": "feedback\\Controllers\\feedbackResponseController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\Controllers\\feedbackResponseController.cs",
+              "RelativeToolTip": "feedback\\Controllers\\feedbackResponseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:57:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\DAL\\Repo\\usersRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\usersRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\DAL\\Repo\\usersRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\usersRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:09:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "feedbacksRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\DAL\\Repo\\feedbacksRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\feedbacksRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\DAL\\Repo\\feedbacksRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\feedbacksRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:09:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "feedbacksResponsesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\DAL\\Repo\\feedbacksResponsesRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\feedbacksResponsesRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\DAL\\Repo\\feedbacksResponsesRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\feedbacksResponsesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:11:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "feedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\Controllers\\feedbacksController.cs",
+              "RelativeDocumentMoniker": "feedback\\Controllers\\feedbacksController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\feedback - Copy\\feedback\\Controllers\\feedbacksController.cs",
+              "RelativeToolTip": "feedback\\Controllers\\feedbacksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:57:20.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\feedback\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.Migrations.intdatabase.resources
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\feedback\DAL\obj\Debug\DAL.Migrations.updates.resources
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\feedback - Copy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.Migrations.intdatabase.resources
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.Migrations.updates.resources
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\feedback - Copy\DAL\obj\Debug\DAL.pdb
